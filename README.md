@@ -6,7 +6,7 @@
 - 😄 
 - ⚡ Fun fact: fact Fun
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashL3616)](https://github.com/YashL3616/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YashL3616)](https://git.io/streak-stats)
 
 <!---
 YashL3616/YashL3616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
