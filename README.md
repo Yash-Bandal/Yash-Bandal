@@ -29,4 +29,7 @@
 
 <h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YashL3616)](https://git.io/streak-stats)
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=YashL3616)](https://git.io/streak-stats)
+</div>
+
