@@ -30,6 +30,7 @@
 <h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=YashL3616)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616" alt="GitHub Streak" />
 </div>
+
 
