@@ -29,9 +29,9 @@
 
 <h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png/?user=YashL3616" alt="GitHub Streak" />
-    
+
+<div align="center" style="background-color: black; padding: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616" alt="https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png" />
 </div>
 
 
