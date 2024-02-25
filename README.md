@@ -15,6 +15,8 @@
 <div align="center">
  
  🔭 Currently studying at **JSPM's RSCOE**
+     SY-BTech
+     Branch **Information Technology**
  
 
  </div>
@@ -31,7 +33,7 @@
 <!--   </a> --> 
 </div>
 
-<h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
+<h2 align="center">⚒️ Indian Army ⚒️</h2>
 
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
