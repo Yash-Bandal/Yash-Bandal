@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="800" height="300"/>
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 </div>
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
