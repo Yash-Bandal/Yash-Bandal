@@ -29,7 +29,7 @@
 
 <h2 align="center">⚒️ Aim Indian Army ⚒️</h2>
 
-         [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 
 <div align="center" style="background-color: black; padding: 20px;">
