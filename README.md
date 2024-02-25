@@ -33,7 +33,7 @@
 
 
 <div align="center" style="background-color: black; padding: 20px;">
-       <img src="http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000" />
+       <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true" />
     
 </div>
 
