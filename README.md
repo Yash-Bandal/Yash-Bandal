@@ -14,8 +14,8 @@
 
 <div align="center">
  
- 🔭 Currently studying at **JSPM's RSCOE**
-     SY-BTech
+ 🔭 Currently studying at **JSPM's RSCOE** <br>
+     SY-BTech <br>
      Branch **Information Technology**
  
 
