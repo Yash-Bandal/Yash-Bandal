@@ -12,7 +12,6 @@
      SY-BTech <br>
      Branch **Information Technology**
  
-
  </div>
  
 <div align="center"> 
