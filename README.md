@@ -7,7 +7,6 @@
 <h3 align="center">Incredible India 🇮🇳</h3>
 <br/>
 <div align="center"> 
-
  🔭 Currently studying at **JSPM's RSCOE** <br>
      SY-BTech <br>
      Branch **Information Technology**
