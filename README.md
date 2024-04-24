@@ -4,7 +4,7 @@
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 </div>
-<h3 align="center">Jai Maharashtra 🇮🇳</h3>
+<h3 align="center">Jai Maharashtra 🇮🇳</h3> 
 <br/>
 <div align="center">  
  🔭 Currently studying at JSPM's RSCOE <br>
