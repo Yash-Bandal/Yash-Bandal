@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">Jai Maharashtra 🇮🇳</h3> 
 <br/>
-<div align="center">   
+<div align="center">  
  🔭 Currently studying at JSPM's RSCOE <br>
      SY-BTech <br>
      Branch **Information Technology**
