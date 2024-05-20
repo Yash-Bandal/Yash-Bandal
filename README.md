@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Jai+Siya+Ram!+🚩;+Jai+Hanuman!;" />
-</h1> 
+</h1>
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
-</div> 
+</div>
 <h3 align="center">STAY COOL STAY DISCIPLINED</h3>
 <br/>
 <div align="center">
@@ -25,9 +25,7 @@
 
 <h2 align="center">Jai Shri Ram | Jai Hanuman </h2>
 
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
