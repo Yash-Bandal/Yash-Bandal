@@ -25,7 +25,7 @@
 
 <h2 align="center">Jai Shri Ram | Jai Hanuman </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
