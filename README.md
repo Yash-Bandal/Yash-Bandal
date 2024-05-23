@@ -42,6 +42,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4479A1?style=flat-square&logo=MongoDB)
+
 
 
 ### Tools:
