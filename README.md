@@ -40,6 +40,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
+
 
 ### Tools:
 
@@ -60,6 +63,7 @@
 <!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
 </div>-->
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616&theme=tokyonight&hide_border=true" />
 <p>
