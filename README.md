@@ -43,17 +43,26 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
+## 👀 Views
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)
+
+
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-<div align="center" style="background-color: black; padding: 20px;">
+<!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
-</div>
+</div>-->
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616&theme=tokyonight&hide_border=true" />
+<p>
+<br>
+
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/YashL3616)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
