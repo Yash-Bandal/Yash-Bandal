@@ -110,9 +110,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-<!--## Views-->
+## Views
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=green)-->
+[Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=green)
 
 
 
