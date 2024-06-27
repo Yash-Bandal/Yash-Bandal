@@ -6,10 +6,11 @@
 </div>
 <h3 align="center">STAY COOL STAY DISCIPLINED</h3>
 <br/>
+
+<div align="center">
 ## Views
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=orange)
-<div align="center">
 
  
 <h3>मारुती स्तोत्र</h3>
