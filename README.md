@@ -11,7 +11,6 @@
 <h3 align="center">STAY COOL STAY DISCIPLINED</h3>
 <br/>
 
-
 <div align="center">
 
 
