@@ -4,7 +4,7 @@
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
 
 
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=orange)
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
