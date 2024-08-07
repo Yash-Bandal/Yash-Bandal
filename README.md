@@ -76,7 +76,7 @@
      Branch <b>Information Technology</b>
  </div>
 <div align="center"> 
-  <a href="mailto:yashlende93@gmail.com">
+  <a href="mailto:yashbandal25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yash-l-852706259//" target="_blank">
@@ -85,7 +85,7 @@
 <!--   <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </a>  -->
-   <a href="https://yashl3616.github.io/PortFolio-Main/Yash.html" target="_blank">
+   <a href="https://yash-bandal.github.io/PortFolio-Main/Yash.html" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </a> 
 </div>
@@ -122,7 +122,7 @@
 
 ## Views
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=orange)
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 
 
@@ -141,7 +141,7 @@
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/YashL3616)
+[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
 
 
 
