@@ -135,7 +135,7 @@
 </div>-->
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616&theme=tokyonight&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true" />
 <p>
 <br>
 
