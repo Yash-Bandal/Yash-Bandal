@@ -124,6 +124,8 @@
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 
+## 🏆 Holopin Badges
+[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@yashbandal)](https://www.holopin.io/@yashbandal#badges)
 
 
 
