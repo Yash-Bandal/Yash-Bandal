@@ -6,7 +6,7 @@
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
 
 <div align="center">  
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" /> 
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />  
 </div>
 <h3 align="center">STAY COOL STAY DISCIPLINED</h3>
 <br/>
