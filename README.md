@@ -138,7 +138,7 @@
 <p>
 <br>
   
-[![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=yash-bandal&show_icons=true&count_private=true&theme=blue)](https://github.com/yash-bandal/github-readme-stats)
+
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
