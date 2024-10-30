@@ -86,9 +86,9 @@
 <!--   <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </a>  -->
-   <a href="https://yash-bandal.github.io/PortFolio-Main/Yash.html" target="_blank">
+  <!-- <a href="https://yash-bandal.github.io/PortFolio-Main/Yash.html" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
- </a> 
+ </a> -->
 </div>
 
 
@@ -123,27 +123,31 @@
 
 ## Views
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
+
+<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
+
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 <br>
 
-## 🏆 HactoberFest 2024
-[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)
+<!--## 🏆 HactoberFest 2024
+[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
 </div>-->
+
+<!--
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true" />
 <p>
-<br>
+<br>-->
   
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
+<!--[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)-->
 
 
 
