@@ -121,7 +121,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## Views
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)
 
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
 
@@ -133,13 +133,13 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <!--<div align="center" style="background-color: black; padding: 20px;">
-       <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
+       <img src="https://streak-stats.demolab.com?user=Yash-Bandal&theme=transparent&hide_border=true"/>
 </div>-->
 
 
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
 <p>
 <br>
   
