@@ -94,7 +94,7 @@
 <h2 align="center">Jai Shri Ram | Jai Hanuman </h2>
 
 ## ⚡ Technologies
-<!--## 👨🏻‍💻 Coding Profiles
+<!--## 👨🏻‍💻 Coding Profiles 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash_l/)-->
 
