@@ -71,7 +71,7 @@
 <br>
 <br>
  🔭 Currently studying at JSPM's RSCOE <br>
-     SY-BTech <br>
+     TY-BTech <br>
      Branch <b>Information Technology</b>
  </div>
 <div align="center"> 
