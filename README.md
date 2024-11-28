@@ -4,7 +4,7 @@
      
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)--> 
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
-
+<div align="center"> 
 
   
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀
@@ -50,7 +50,7 @@
 <h3 align="center">STAY COOL STAY DISCIPLINED</h3>
 <br/>
 
-<div align="center"> 
+
     
  🔭 Currently studying at JSPM's RSCOE <br>
      TY-BTech <br>
