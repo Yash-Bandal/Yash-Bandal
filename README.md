@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-**Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/).I embrace minimalism in my pursuit of personal growth and excellence. With a disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor.** 
+**Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/) . I embrace minimalism in my pursuit of personal growth and excellence. With a disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor.** 
 <br>
 
 ## Stay connected:
@@ -23,7 +23,8 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/Yash/)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-00A0D1?style=flat-square&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/Yash)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.codingninjas.com/codestudio/profile/Yash)
+
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/y)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/y)-->
 
