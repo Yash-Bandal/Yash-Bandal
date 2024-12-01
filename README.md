@@ -64,7 +64,7 @@
 [![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-<!--<div align="center" style="background-color: black; padding: 20px;">
+<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=Yash-Bandal&theme=transparent&hide_border=true"/>
 </div>
 
