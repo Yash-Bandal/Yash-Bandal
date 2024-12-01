@@ -65,14 +65,18 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <br>
-<p align="center">
+<!--<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
+<p>-->
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=dark&hide_border=true"/>
 <p>
 <br>
 
 ### Contributing projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=tokyonight)](https://github.com/Yash-Bandal/WildGuard)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=dark)](https://github.com/Yash-Bandal/WildGuard)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=SkillWise&theme=dark)](https://github.com/Yash-Bandal/SkillWise)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=forage-jpmc-swe-task-1&theme=dark)](https://github.com/Yash-Bandal/forage-jpmc-swe-task-1)
 <!--[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=monokai)](https://github.com/Yash-Bandal/WildGuard)-->
