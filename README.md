@@ -72,7 +72,7 @@
 
 ### Contributing projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=theme=dark)](https://github.com/Yash-Bandal/WildGuard)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=tokyonight)](https://github.com/Yash-Bandal/WildGuard)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=SkillWise&theme=dark)](https://github.com/Yash-Bandal/SkillWise)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=forage-jpmc-swe-task-1&theme=dark)](https://github.com/Yash-Bandal/forage-jpmc-swe-task-1)
 <!--[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=monokai)](https://github.com/Yash-Bandal/WildGuard)-->
