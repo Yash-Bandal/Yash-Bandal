@@ -1,79 +1,31 @@
 <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Jai+Hanuman!+🚩;+Jai+Siya+Ram+🚩!;" />
-</h1>  
-      
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)--> 
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
-<div align="center"> 
+</h1>
 
-  
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣿⣿⣿⣧⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡀⠀⠀⠀
-⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⣷⠀⠀⠀
-⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠩⢹⡙⠁⢸⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃⢹⡇⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣼⣶⣿⡆⠀⢸⣿⣾⣿⠻⣿⠷⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠀⠀⢿⡄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⡄⠀⢈⣿⡄⣰⣴⡀⢀⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠸⣧⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣷⣽⣿⣿⣬⣉⣡⠞⢻⣿⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣿⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⠿⠻⣿⠛⣿⣇⠀⠀⠀⣼⣿⠈⠉⠑⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠀⠀⠀⠀⢸⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠁⠀⠀⠹⣦⣻⣿⣆⠀⣠⣿⣿⠀⣠⢀⡀⠈⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⠀⠀⣸⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠀⠀⣰⡀⠀⠈⢻⣿⣏⠙⠋⣸⣿⣮⡏⠀⢳⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠀⠀⠀⢠⣿⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⢶⣤⣠⡏⠱⣄⣠⡀⠹⣿⣄⠘⣿⡿⢿⣰⣦⡏⠀⣈⣿⣆⠀⠀⠀⠀⠀⠀⠀⠈⢀⠇⠀⠀⠀⢠⣾⠃⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢠⠞⠀⠀⢉⡿⢳⠀⠈⠚⠓⠒⢻⣿⣷⣿⠉⠉⠉⢹⠳⡾⠛⠁⠸⣄⣀⣀⡀⠀⠀⡀⠀⢸⠀⠀⠀⢠⣿⠇⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⣴⡋⠀⠀⢧⡀⠀⠀⠀⠘⢿⣿⡿⠷⣄⡀⡎⠀⠉⠢⣄⡀⠀⠀⠀⠉⠓⠦⢤⣀⣟⣀⣀⣤⣼⡟⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢦⡀⠀⠀⠉⠓⠠⠬⢧⡤⠞⠛⢻⣿⡆⠀⠀⢈⣿⣧⣄⠀⠀⠀⠉⠒⠢⠄⠀⣀⣀⣀⣀⣿⣍⠀⣽⣿⣷⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⠠⠠⠤⠤⠤⢿⣤⣤⣤⣴⣿⣤⣤⣴⣿⣿⣿⣿⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⡞⠀⠈⠉⣿⡟⠁⠀⠀⠀
-⠀⠀⢠⠤⠒⠂⢤⣤⡀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⠯⢏⣳⣾⣿⣿⣿⣿⡇⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠇⠀⠀⣼⡿⠀⠀⠀⠀⠀
-⠀⠀⡼⠭⠭⢭⣿⣗⣿⣆⠀⠀⠀⠀⢀⣿⣿⣿⣿⡶⣾⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠈⠀⠀⠄⠀⠀⠀⠀⢸⠀⠀⣸⣿⠁⠀⠀⠀⠀⠀
-⠀⠀⣟⣒⣒⠠⡿⢭⣿⣿⣷⣄⡀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡆⠀⠁⠀⠀⠀⠀⠀⠀⢀⡟⠀⢠⣿⠇⠀⠀⠀⠀⠀⠀
-⠀⢸⣗⣒⣒⣹⡿⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠻⣉⣴⣿⣿⢭⡒⢭⣱⡐⠀⠀⠀⠀⠀⠈⠁⢸⠃⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢹⡿⠭⠽⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⢟⣩⡠⢚⣿⣿⣿⣿⡶⠚⣩⠟⣇⡀⠀⠀⠀⠀⠄⠀⡜⠀⠀⣿⠇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢈⣯⢏⣙⣿⡻⣿⣿⣿⣿⣿⡿⠿⡭⠞⣡⠟⠋⣠⣾⣿⣿⣿⣿⢭⣭⡥⠔⢋⣗⠀⠀⠀⠀⠀⢰⣏⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠘⡿⢒⣺⡯⠿⠛⠛⠋⡹⠐⢋⡠⠊⣡⠴⣏⡽⠿⣿⣿⣿⠏⣀⡠⢤⣶⡫⣧⠀⠀⠀⠈⠁⡼⠄⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠋⠉⠀⠀⠀⠀⢀⣰⠥⠒⠋⡴⣻⣄⣾⡉⢳⣤⠾⣿⣟⣋⡡⠔⠋⠸⠊⣸⠀⠀⠀⠀⢠⡗⡆⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠁⠀⠀⠀⡠⠟⢁⡸⢛⠗⠛⣷⣴⣿⡟⠷⣤⣄⠀⡠⠜⢩⣧⠀⠀⠈⢸⢐⠆⠀⠀⠘⣿⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣠⢞⣹⡤⠤⠄⡊⠤⠒⠋⢀⢾⠀⡠⠛⣶⣿⣧⡀⠈⠑⢥⡀⡠⣿⢿⠀⠀⠀⡇⠰⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⡸⠃⠀⠀⠀⠀⠈⠀⠀⢀⣤⡟⠀⠙⢳⡔⣿⠿⣈⠛⠷⣦⣤⡍⣚⡵⠛⣧⠀⣸⠇⠀⠅⠀⢀⣿⠃⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⠟⢆⡀⠀⠀⠀⢀⡠⠄⠒⣩⠞⠀⢀⠔⠛⣿⣿⣦⡀⠉⠒⠤⣈⠉⡁⠤⠚⠹⡄⡟⠀⠀⠡⠀⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢰⡀⠀⠙⠒⠒⠒⠁⠀⡠⠊⡏⠀⠀⠸⠤⣼⡿⠉⣷⢌⡓⠢⠤⣀⡀⠀⠀⠀⠀⣿⠇⠀⠀⠀⣾⡏⠀⡀⢀⣠⣀⡤⠀⠀⠀
-⠀⠀⠀⠀⢰⡷⡀⠀⠀⠀⣀⣴⣊⣠⠞⠀⠀⠀⠀⠀⠿⠁⠀⠈⢶⣾⠷⢦⡤⡉⠁⠐⠂⠈⣽⣧⡀⢀⣼⠟⠀⠀⡿⣿⠟⠁⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⢿⣟⠒⢚⡭⢀⣠⡴⠋⠀⠀⣀⣀⣤⣤⣄⣀⣀⣄⣀⣹⣦⣄⠙⠚⠷⢶⣶⣺⣿⡿⣷⣾⣯⣤⣤⣴⣷⣷⣤⣶⣿⣿⣿⣷
-⠀⣠⣤⣴⣦⣶⣿⣭⣽⣾⣿⣿⣷⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣿⣶⣦⣴⣿⣾⣤⣿⣿⣿⣿⣿⣿⣷⢿⡾⠽⣿⣿⣾⣿
-⣾⣿⣿⣿⣿⣿⣿⣿⡟⠛⢻⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣿⣟⣿
-⣰⣿⣿⣿⣿⣿⣿⣿⠁⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣧⣄⡀⠀⢙⣿⣿⣿⣿⣿⣿⣿⣿⡿⢽⣻
-⣤⠿⣴⡿⣻⣿⣿⣿⣷⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣯⣙⣒⣺⣻⡿⠿⠿⠿⢦⣬⣿⡿⠛⠛⠋⠉⠉⢉⣍⠹⣏
-⡽⠒⠛⠛⠋⠉⠉⠉⠙⠋⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⠿⡿⣂
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+**Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/).I embrace minimalism in my pursuit of personal growth and excellence. With a disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor. ** 
 <br>
-<br>
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />  
-</div>
-<h3 align="center">STAY COOL STAY DISCIPLINED</h3>
-<br/>
+
+## Stay connected:
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashbandal25@gmail.com)](mailto:yashbandal25@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashbandal/)](https://www.linkedin.com/in/yashbandal/)
+<!--[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https link)-->
+<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https link/)](https link)-->
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](http link)
 
 
-    
- 🔭 Currently studying at JSPM's RSCOE <br>
-     TY-BTech <br>
-     Branch <b>Information Technology</b>
- </div>
-<div align="center"> 
-  <a href="mailto:yashbandal25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-l-852706259//" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
- </a>  -->
-  <!-- <a href="https://yash-bandal.github.io/PortFolio-Main/Yash.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
- </a> -->
-</div>
+[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
 
+## 👨🏻‍💻 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/Yash/)
+<!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/y)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/y)-->
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-00A0D1?style=flat-square&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/Yash)
 
-<h2 align="center">Jai Shri Ram | Jai Hanuman </h2>
 
 ## ⚡ Technologies
 <!--## 👨🏻‍💻 Coding Profiles 
