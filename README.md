@@ -31,9 +31,6 @@
 
 
 ## ⚡ Technologies
-<!--## 👨🏻‍💻 Coding Profiles 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash_l/)-->
 
 
 ### Language
@@ -48,7 +45,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb)
 
 
-
 ### Tools:
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
@@ -56,21 +52,21 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-## Views
-<!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
 
+## Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 <br>
 
-<!--## 🏆 HactoberFest 2024
+## 🏆 HactoberFest 2024
+
 [![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=Yash-Bandal&theme=transparent&hide_border=true"/>
-</div>-->
+</div>
 
 
 <br>
