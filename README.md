@@ -64,18 +64,18 @@
 [![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)-->
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-<div align="center" style="background-color: black; padding: 20px;">
-       <img src="https://streak-stats.demolab.com?user=Yash-Bandal&theme=transparent&hide_border=true"/>
-</div>
-
-
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
 <p>
 <br>
-  
 
+### Contributing projects
+
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=monokai)](https://github.com/Yash-Bandal/WildGuard)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=SkillWise&theme=monokai)](https://github.com/Yash-Bandal/SkillWise)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=Forage_JP-Morgan&theme=monokai)](https://github.com/Yash-Bandal/forage-jpmc-swe-task-1)
+<!--[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=monokai)](https://github.com/Yash-Bandal/WildGuard)-->
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <!--[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)-->
