@@ -11,9 +11,10 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashbandal25@gmail.com)](mailto:yashbandal25@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashbandal/)](https://www.linkedin.com/in/yashbandal/)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](httplink)
 <!--[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https link)-->
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https link/)](https link)-->
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](http link)
+
 
 
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
@@ -22,9 +23,10 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/Yash/)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-00A0D1?style=flat-square&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/Yash)
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/y)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/y)-->
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-00A0D1?style=flat-square&logo=CodingNinjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/Yash)
+
 
 
 ## ⚡ Technologies
