@@ -69,13 +69,13 @@
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <br>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
-<p>
-
 <!--<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=dark&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
 <p>-->
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=dark&hide_border=true"/>
+<p>
 <br>
 
 ### Contributing projects
