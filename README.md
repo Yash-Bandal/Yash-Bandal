@@ -89,7 +89,13 @@
 <!--[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)-->
 
 <!--Ram-->
-
+### Certifications
+ - Google Cloud Computing Foundations – NPTEL (Elite Silver) | Google
+ - Six Sigma Yellow Belt – ScrumSTUDY (SBOK® Accreditation Body for Scrum and Agile)
+ - Microsoft Learn Machine Learning - Microsoft
+ - Introduction to MongoDB, AI, and Vector Search -MongoDB
+ - Qlik Sense Business Analyst - Qlik
+ - Cloud and Virtualization (Badge) - VMWare
 
 
 
