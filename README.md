@@ -44,6 +44,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb)
 
@@ -54,7 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 <br>
 
 ## 🌍 Views
