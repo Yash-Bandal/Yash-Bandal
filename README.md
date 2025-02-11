@@ -5,7 +5,7 @@
 
 **Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/) .**
 <!--I embrace minimalism in my pursuit of personal growth and excellence. With a  disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor.** -->
-<br>
+<br> 
 
 ## 🔗 Stay connected:
 
