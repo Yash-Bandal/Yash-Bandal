@@ -91,7 +91,9 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=dark)](https://github.com/Yash-Bandal/WildGuard)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=SkillWise&theme=dark)](https://github.com/Yash-Bandal/SkillWise)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=forage-jpmc-swe-task-1&theme=dark)](https://github.com/Yash-Bandal/forage-jpmc-swe-task-1)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bandal&theme=dark&show_icons=true&hide_border=true&layout=compact" /> 
+
+
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Bandal&theme=dark&show_icons=true&hide_border=true&layout=compact" /> -->
 <!--[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=monokai)](https://github.com/Yash-Bandal/WildGuard)-->
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
