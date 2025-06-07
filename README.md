@@ -27,16 +27,16 @@
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
 
 ## 👨🏻‍💻 Coding Profiles
-<!--
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/dy/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/Yash/)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.codingninjas.com/codestudio/profile/Yash)
--->
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.codingninjas.com/codestudio/)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ayush2911)
+
+<!--[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/)-->
 
 <!--[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/y)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/y)-->
 
-<br>
+
 
 ## ⚡ Technologies
 
@@ -51,7 +51,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb)
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb)-->
 
 
 ### Tools:
@@ -61,6 +61,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+<!--![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)-->
 <br>
 
 ## 🌍 Views
