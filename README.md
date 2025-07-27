@@ -1,5 +1,5 @@
  <h1 align="center"> 
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Jai+Hanuman!+🚩;+Jai+Siya+Ram+🚩!;" /> -->
+<!--     <img src="https://readme-t yping-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Jai+Hanuman!+🚩;+Jai+Siya+Ram+🚩!;" /> -->
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" /> 
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%236E40C9&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=+Commit+→+Push+→+Enlighten+→+Merge+→+Deploy+→+Thrive+!" />
