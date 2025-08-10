@@ -27,9 +27,9 @@
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
 
 ## 👨🏻‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dev_yash_)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.naukri.com/code360/profile?nps=true)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yash_bandal)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
 
 <!--[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/)-->
 
