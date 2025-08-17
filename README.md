@@ -100,7 +100,7 @@
 <br>
 
  ### Currently Working on 
- - [Odyssey](https://ybs-odyssey.netlify.app/)
+ - [Odyssey](https://yb-odyssey.netlify.app/)
  - [Astrosoft](https://yb-astrosoft.netlify.app/)
 
 <!--
