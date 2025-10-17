@@ -1,7 +1,8 @@
  <h1 align="center">
-<!--     <img src="https://readme-t yping-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Jai+Hanuman!+🚩;+Jai+Siya+Ram+🚩!;" /> -->
+    <img src="https://readme-t yping-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Happy+Deepawali!+🪔;" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" /> 
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" />  -->
+
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%236E40C9&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=+Commit+→+Push+→+Enlighten+→+Merge+→+Deploy+→+Thrive+!" />
  -->
   
@@ -12,7 +13,7 @@
 <!--I embrace minimalism in my pursuit of personal growth and excellence. With a  disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor.** --> 
 <br> 
 
-## 🔗 Stay connected:
+##  Stay connected:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashbandal25@gmail.com)](mailto:yashbandal25@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashbandal/)](https://www.linkedin.com/in/yashbandal/)
@@ -26,7 +27,7 @@
 
 [![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
 
-## 👨🏻‍💻 Coding Profiles
+##  Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.naukri.com/code360/profile?nps=true)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
@@ -38,7 +39,7 @@
 
 <br>
 
-## ⚡ Technologies
+## Technologies
 
 
 ### Language
@@ -75,13 +76,13 @@
 <!--![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)-->
 <br>
 
-## 🌍 Views
+##  Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 <br>
 
-## 🏆 HactoberFest 2024 - OpenSource | DigitalOcean
+##  HactoberFest 2024 - OpenSource | DigitalOcean
 
 [![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
