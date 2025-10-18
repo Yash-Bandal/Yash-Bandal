@@ -102,9 +102,13 @@
 
 <br>
 
+
+  <h1 align="center"> 🎇🏵️🪔 May this Deepawali illuminate your path with knowledge, wisdom, and success. Wishing you a joyous and prosperous year ahead. 🪔🏵️🎇 </h1>
+
+<!--
  ### Currently Working on 
  - [Odyssey](https://yb-odyssey.netlify.app/)
- - [Astrosoft](https://yb-astrosoft.netlify.app/)
+ - [Astrosoft](https://yb-astrosoft.netlify.app/) -->
 
 <!--
 ### Contributing projects
