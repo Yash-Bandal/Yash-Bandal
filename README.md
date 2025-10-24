@@ -1,14 +1,43 @@
+
  <h1 align="center">
     <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Happy+Deepawali!+🪔;" /> -->
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" />  -->
+<!--  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" />   -->
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%236E40C9&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=+Commit+→+Push+→+Enlighten+→+Merge+→+Deploy+→+Thrive+!" />
 
  -->
 
-  🪔 Happy Deepawali 🪔
+ 🪔 Happy Deepawali 🪔
 </h1>
+
+
+
+<br>
+
+
+
+
+[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
+ <h3 align="center"> HactoberFest  - OpenSource | DigitalOcean </h3>
+
+
+<br>
+<!--<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
+<p>-->
+
+
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=dark&hide_border=true"/>
+<p>
+
+<br>
+
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 **Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/) .** | Product Engineer 
@@ -85,33 +114,15 @@
 <br>
 
 
-##  HactoberFest  - OpenSource | DigitalOcean
-
-[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal)
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 
 
-<br>
-<!--<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=tokyonight&hide_border=true"/>
-<p>-->
+ <!-- <h1 align="center"> 🎇🏵️🪔 May this Deepawali illuminate your path with knowledge, wisdom, and success. Wishing you a joyous and prosperous year ahead. 🪔🏵️🎇 </h1> -->
 
 
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Bandal&theme=dark&hide_border=true"/>
-<p>
-
-<br>
-
-
-  <h1 align="center"> 🎇🏵️🪔 May this Deepawali illuminate your path with knowledge, wisdom, and success. Wishing you a joyous and prosperous year ahead. 🪔🏵️🎇 </h1>
-
-<!--
  ### Currently Working on 
- - [Odyssey](https://yb-odyssey.netlify.app/)
- - [Astrosoft](https://yb-astrosoft.netlify.app/) -->
+ #### - [Aditya Construction](https://adityaconstruction-dev.netlify.app/)
+
 
 <!--
 ### Contributing projects
@@ -119,6 +130,8 @@
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=WildGuard&theme=dark)](https://github.com/Yash-Bandal/WildGuard)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=SkillWise&theme=dark)](https://github.com/Yash-Bandal/SkillWise)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yash-Bandal&repo=forage-jpmc-swe-task-1&theme=dark)](https://github.com/Yash-Bandal/forage-jpmc-swe-task-1)
+
+ - [Astrosoft](https://yb-astrosoft.netlify.app/)
 -->
 
 
