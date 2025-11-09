@@ -19,7 +19,7 @@
 
 [![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashbandal)](https://holopin.io/@yashbandal) 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
- <h3 align="center"> HactoberFest  - OpenSource | DigitalOcean </h3>
+ <h3 align="center"> HactoberFest - OpenSource | DigitalOcean </h3>
  
 
 
@@ -41,7 +41,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-**Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/) .** | Product Engineer 
+**Yash Bandal, currently pursuing B.Tech degree in Information Technology from [JSPM's RSCOE](https://www.jspmrscoe.edu.in/) .** | Product Engineer
 <!--I embrace minimalism in my pursuit of personal growth and excellence. With a  disciplined approach and steadfast determination, I constantly strive to achieve my best in every endeavor.** --> 
 <br> 
 
