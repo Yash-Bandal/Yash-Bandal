@@ -58,12 +58,12 @@
 
 
 
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal)
+[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Bandal&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Yash-Bandal) 
 
 ##  Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.naukri.com/code360/profile?nps=true)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-000000?style=flat-square&logo=CodingNinjas&logoColor=%23f49324)](https://www.naukri.com/code360/profile/yashbandal)
+<!--[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)-->
 
 <!--[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/)-->
 
@@ -109,8 +109,8 @@
 <!--![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)-->
 <br>
 
-##  Views
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)
+<!-- ##  Views
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Yash-Bandal&label=PROFILE+VIEWS&style=flat-square&color=orange)-->
 
 <!--![LeetCode Views](https://img.shields.io/badge/LeetCode%20Views-153k%2B-brightgreen.svg)-->
 <br>
@@ -122,8 +122,19 @@
  <!-- <h1 align="center"> 🎇🏵️🪔 May this Deepawali illuminate your path with knowledge, wisdom, and success. Wishing you a joyous and prosperous year ahead. 🪔🏵️🎇 </h1> -->
 
 
- ## Currently Working with
- ### [Aditya Construction](https://adityaconstruction.co) - Builders & Developers in Pune 
+## Experience
+
+### **Intern**  
+**Indian Institute of Technology Ropar (IIT Ropar)**
+
+### **Researcher**  
+**Karunya Institute of Technology and Sciences, Coimbatore**  
+in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
+
+### **Freelance Developer**  
+**[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
+
+
 
 
 <!--
