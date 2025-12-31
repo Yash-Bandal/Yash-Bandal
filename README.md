@@ -127,7 +127,7 @@
 ### **Intern**  
 **Indian Institute of Technology Ropar (IIT Ropar)**
 
-### **Researcher**  
+### **Research Fellow**  
 **Karunya Institute of Technology and Sciences, Coimbatore**  
 in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
 
