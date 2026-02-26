@@ -126,15 +126,15 @@
 ## Experience
 
 ### **Intern**  
-**Indian Institute of Technology Ropar (IIT Ropar)**
+   **Indian Institute of Technology Ropar (IIT Ropar)**
 
 ### **Undergraduate Researcher**  
-**Karunya Institute of Technology and Sciences, Coimbatore**  
-in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
+   **Karunya Institute of Technology and Sciences, Coimbatore**  
+   in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
 
 ### **Freelance Developer**  
-- **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
--  **[Aarambh Architecture](https://aarambharchitecture.netlify.app/contact)** - Architecture and Civil firm in Pandharpur and Pune
+   - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
+   -  **[Aarambh Architecture](https://aarambharchitecture.netlify.app/contact)** — Architecture and Civil firm in Pandharpur and Pune
 
 
 
