@@ -1,4 +1,4 @@
- <h1 align="center"> 
+ <!-- <h1 align="center"> -->
     <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Happy+Deepawali!+🪔;" /> -->
 
 <!--  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" />   -->
@@ -8,9 +8,16 @@
  -->
 
  <!--🪔 Happy Deepawali 🪔 -->
- February 2026
- 
-</h1>
+<!-- February 2026
+</h1>-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d8ece&height=260&section=header&text=Yash%20Bandal&fontSize=44&fontColor=58a6ff&fontAlignY=32&desc=YB-Productions&descSize=15&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%"/>
+</p>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Shipping+Scalable+Web+%26+Cloud+Applications+%F0%9F%9A%80;AI-Integrated+Systems+%7C+LeetCode+Top+10%25+%F0%9F%8F%86;IEEE+Published+Researcher+%7C+Ex-Samsung+R%26D+%E2%9A%99%EF%B8%8F" />
+</p> -->
 
 
 
