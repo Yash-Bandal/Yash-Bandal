@@ -1,15 +1,4 @@
- <!-- <h1 align="center"> -->
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Happy+Deepawali!+🪔;" /> -->
-
-<!--  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%23FF9933&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Yash+Bandal+!;" />   -->
-
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=%236E40C9&size=35&center=true&vCenter=true&width=600&height=80&duration=5000&lines=+Commit+→+Push+→+Enlighten+→+Merge+→+Deploy+→+Thrive+!" />
-
- -->
-
- <!--🪔 Happy Deepawali 🪔 -->
-<!-- February 2026
-</h1>-->
+<!-- See archives for old anime header-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d8ece&height=260&section=header&text=Yash%20Bandal&fontSize=44&fontColor=58a6ff&fontAlignY=32&desc=YB-Productions&descSize=15&descColor=8b949e&descAlignY=56&animation=fadeIn" width="100%"/>
