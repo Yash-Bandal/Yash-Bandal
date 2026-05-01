@@ -130,7 +130,7 @@
 
 ### **Freelance Developer**  
    - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
-   -  **[Aarambh Architecture](https://aarambharchitecture.com/)** — Architecture and Civil firm in Pandharpur and Pune
+   -  **[Aarambh Architecture](https://aarambharchitecture.com)** — Architecture and Civil firm in Pandharpur and Pune
 
 
 
