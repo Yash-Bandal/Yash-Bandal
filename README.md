@@ -126,8 +126,9 @@
    **Indian Institute of Technology Ropar (IIT Ropar)**
 
 ### **Undergraduate Researcher**  
-   **Karunya Institute of Technology and Sciences, Coimbatore**  
+   **Samara State Medical University, Russia**  
    in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
+   - [DOI](https://doi.org/10.70594/brain/17.2/15)
 
 ### **Freelance Developer**  
    - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
