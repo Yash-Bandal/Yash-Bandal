@@ -123,8 +123,8 @@
 ## Experience
 
 ### **Intern**  
-   **Indian Institute of Technology Ropar (IIT Ropar)**
-   **Associate Product Engineer Intern - DeltaS** 
+   -  **Indian Institute of Technology Ropar (IIT Ropar)**
+   -  **Associate Product Engineer Intern - DeltaX** 
 
 ### **Undergraduate Researcher**  
    **Samara State Medical University, Russia**  
