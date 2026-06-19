@@ -77,12 +77,14 @@
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=Java)
+
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDb)-->
 
 ### Tech Stack
@@ -90,6 +92,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -101,8 +104,10 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 <!--![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)-->
 <br>
@@ -120,23 +125,27 @@
  <!-- <h1 align="center"> 🎇🏵️🪔 May this Deepawali illuminate your path with knowledge, wisdom, and success. Wishing you a joyous and prosperous year ahead. 🪔🏵️🎇 </h1> -->
 
 
-## Experience
+## Work
+
+### **Associate Product Engineer** (Present)
+   - **DeltaX - Adbox Software PVT LTD**
 
 ### **Intern**  
    -  **Indian Institute of Technology Ropar (IIT Ropar)**
-   -  **Associate Product Engineer Intern - DeltaX** 
+      -  Worked on [ViBe AI](https://vicharanashala.ai/)
 
 ### **Undergraduate Researcher**  
-   **Samara State Medical University, Russia**  
-   in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
-   - [DOI](https://doi.org/10.70594/brain/17.2/15)
+   - **Samara State Medical University, Russia**  
+     in collaboration with **JSPM’s Rajarshi Shahu College of Engineering (RSCOE)**
+       - [DOI](https://doi.org/10.70594/brain/17.2/15)
 
 
 ### **Freelance Developer**  
-   - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
-   -  **[Aarambh Architecture](https://aarambharchitecture.com)** — Architecture and Civil firm in Pandharpur and Pune
-   -  **[Indalkar PFT Breathcare](https://indalkar-pft.netlify.app/)** - Spirometry and Lung Care center in Pune.
-   -  **[Oxy7 Aqua](https://oxy7aqua26.netlify.app/)** - Packaged Drinking Water Brand in Moshi, Pune.
+  -  **YB Studios**
+     - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
+     -  **[Aarambh Architecture](https://aarambharchitecture.com)** — Architecture and Civil firm in Pandharpur and Pune
+     -  **[Indalkar PFT Breathcare](https://indalkar-pft.netlify.app/)** - Spirometry and Lung Care center in Pune.
+     -  **[Oxy7 Aqua](https://oxy7aqua26.netlify.app/)** - Packaged Drinking Water Brand in Moshi, Pune.
 
 
 
