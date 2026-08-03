@@ -154,7 +154,7 @@
      - **[Aditya Construction](https://adityaconstruction.co)** — Builders & Developers, Pune
      -  **[Aarambh Architecture](https://aarambharchitecture.com)** — Architecture and Civil firm in Pandharpur and Pune
      -  **[Indalkar PFT Breathcare](https://indalkar-pft.netlify.app/)** - Spirometry and Lung Care center in Pune.
-     -  **[Oxy7 Aqua](https://oxy7aqua26.netlify.app/)** - Packaged Drinking Water Brand in Moshi, Pune.
+     -  **[Oxy7 Aqua](https://oxy7aqua.com/)** - Packaged Drinking Water Brand in Moshi, Pune.
 
 
 
