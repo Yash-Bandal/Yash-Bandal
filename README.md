@@ -159,8 +159,9 @@
      -  **[Indalkar PFT Breathcare](https://indalkar-pft.netlify.app/)** - Spirometry and Lung Care center in Pune.
      -  **[Oxy7 Aqua](https://oxy7aqua.com)** - Packaged Drinking Water Brand in Moshi, Pune.
 
+<br> 
 
-### **Neuroscience**
+## **Neuroscience**
 
 1. [EEG and Conciousness](https://www.researchgate.net/publication/406099380_Bridging_Consciousness_and_the_Subconscious_EEG_Across_States_of_Awareness)
 2. [Meditation and EEG Correlatoin](https://ieeexplore.ieee.org/document/11606908)
