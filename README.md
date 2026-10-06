@@ -160,7 +160,11 @@
      -  **[Oxy7 Aqua](https://oxy7aqua.com)** - Packaged Drinking Water Brand in Moshi, Pune.
 
 
+### **Neuroscience**
 
+1. [EEG and Conciousness](https://www.researchgate.net/publication/406099380_Bridging_Consciousness_and_the_Subconscious_EEG_Across_States_of_Awareness)
+2. [Meditation and EEG Correlatoin](https://ieeexplore.ieee.org/document/11606908)
+3. [iTBS and EEG - Effects on Brain](https://brain.edusoft.ro/index.php/brain/article/view/2027)
 
 <!--
 ### Contributing projects
