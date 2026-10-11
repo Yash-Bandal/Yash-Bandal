@@ -143,7 +143,9 @@
 ### **Intern**  
    -  **Indian Institute of Technology Ropar (IIT Ropar)**
       -  Worked on [ViBe AI](https://vicharanashala.ai/)
-   - **Associate Product Engineer** (Present)  - **DeltaX - Adbox Software PVT LTD**
+  
+
+<!--  **Associate Product Engineer** (Present)  - **DeltaX - Adbox Software PVT LTD** -->
      
 
 ### **Undergraduate Researcher**  
